@@ -1,2 +1,2 @@
 # GameProgramming2
-Labs foe Game Programming 2
+Labs for Game Programming 2
